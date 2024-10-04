@@ -1,5 +1,7 @@
 # Natural Order String Comparison
 
+[![Build](https://github.com/sourcefrog/natsort/actions/workflows/ci.yml/badge.svg)](https://github.com/sourcefrog/natsort/actions/workflows/ci.yml)
+
 Martin Pool <http://sourcefrog.net>
 
 Computer string sorting algorithms generally don't order strings
@@ -132,7 +134,7 @@ Ed Avis wrote [something similar in Haskell](http://membled.com/work/apps/todo/n
 
 
 Pierre-Luc Paour wrote a
-[`NaturalOrderComparator`](http://pierre-luc.paour.9online.fr/NaturalOrderComparator.java)
+[`NaturalOrderComparator`](http://github.com/paour/natorder)
 in Java.
 
 [Numacomp](http://sourceforge.net/projects/numacomp) - similar thing in Python.
